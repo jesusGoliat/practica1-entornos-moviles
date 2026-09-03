@@ -16,8 +16,11 @@
 ### Práctica 1: Instalación y Funcionamiento de los Entornos Móviles
 
 **Alumno:** Jesús Ángel González Arellano 
+
 **Boleta:** 2022630690 
+
 **Fecha:** 03 de septiembre de 2026 
+
 
 ---
 
