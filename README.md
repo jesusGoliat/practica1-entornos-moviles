@@ -26,8 +26,6 @@
 
 ## 1. Introducción
 
-El desarrollo de software para dispositivos móviles ha evolucionado desde interfaces construidas de forma puramente imperativa hasta arquitecturas declarativas y reactivas. Para abordar proyectos en el ecosistema Android, resulta fundamental contar con un entorno de desarrollo integrado que contemple la compilación de lenguajes modernos (Kotlin y Dart), la gestión de dependencias automatizadas (Gradle y Maven), el control de versiones local y remoto (Git y GitHub) y herramientas de virtualización y contenedores (Docker).
-
 Esta práctica documenta el proceso formal de instalación y validación de las herramientas requeridas sobre un entorno Linux nativo, así como el desarrollo comparativo de una aplicación básica implementada bajo tres tecnologías fundamentales: Views tradicionales con XML, Jetpack Compose y Flutter.
 
 ---
