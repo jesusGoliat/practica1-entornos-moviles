@@ -3,10 +3,15 @@
 ## Escuela Superior de Cómputo
 
 **Programa Académico:** Ingeniería en Sistemas Computacionales 
+
 **Unidad de Aprendizaje:** Desarrollo de aplicaciones móviles nativas 
+
 **Grupo:** 7CV4 
+
 **Periodo Escolar:** 2027-1 
+
 **Profesor:** Gabriel Hurtado Avilés 
+
 
 ### Práctica 1: Instalación y Funcionamiento de los Entornos Móviles
 
